@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jibesh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jibesh10101011&label=Profile%20views&color=0e75b6&style=flat" alt="jibesh10101011" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-Jibesh89&label=Profile%20views&color=0e75b6&style=flat" alt="developer-Jibesh89" /> </p>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=jibesh10101011&theme=dracula" alt="jibesh10101011" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=developer-Jibesh89&theme=dracula"><img src="https://github-profile-trophy.vercel.app/?username=developer-Jibesh89&theme=dracula" alt="developer-Jibesh89" /></a> </p>
 
 - 📫 How to reach me **jibeshr60@gmail.com**
 
@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jibesh10101011&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="jibesh10101011" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-Jibesh89&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="developer-Jibesh89" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jibesh10101011&show_icons=true&locale=en&theme=synthwave" alt="jibesh10101011" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-Jibesh89&show_icons=true&locale=en&theme=synthwave" alt="developer-Jibesh89" /></p>
