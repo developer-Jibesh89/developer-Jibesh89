@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,nextjs,nodejs,py,pytorch,tensorflow,react,redux,c,cpp,git,grafana,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,ai,js,nextjs,nodejs,py,pytorch,tensorflow,react,redux,c,cpp,git,linux,opencv,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
 
 
