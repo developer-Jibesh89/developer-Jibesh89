@@ -29,7 +29,5 @@ Here are some ideas to get you started:
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,nextjs,nodejs,py,pytorch,tensorflow,react,redux,c,cpp,git,grafana,linux,opencv,redis,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=developer-Jibesh89&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="developer-Jibesh89" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=developer-Jibesh89&show_icons=true&locale=en&theme=synthwave" alt="developer-Jibesh89" /></p>
