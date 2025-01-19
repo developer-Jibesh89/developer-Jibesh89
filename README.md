@@ -1,20 +1,21 @@
 <!--
 **developer-Jibesh89/developer-Jibesh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <h1 align="center">Hi 👋, I'm Jibesh</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
+
+
+- 🔭 I’m currently working on ... building a real-time chat application and deploying microservices using Docker and AWS ECS.
+- 🌱 I’m currently learning ... advanced Kubernetes concepts and system design for scalable web applications.
+- 👯 I’m looking to collaborate on ... innovative projects in machine learning, full-stack development, and real-time systems.
+- 🤔 I’m looking for help with ... optimizing serverless architecture for high-availability applications.
+- 💬 Ask me about ... Docker, AWS ECS/Fargate, Redis, Socket.IO, and full-stack development with React.js and Express.js.
+- 📫 How to reach me: ... [jibeshroy89@gmail.com](mailto:jibeshroy89@gmail.com)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I love exploring cutting-edge technology stacks and have a knack for simplifying complex systems!
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developer-Jibesh89&label=Profile%20views&color=0e75b6&style=flat" alt="developer-Jibesh89" /> </p>
 
