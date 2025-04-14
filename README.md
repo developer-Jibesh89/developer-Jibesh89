@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning ... advanced AI concepts and system design for scalable web applications.
 - 👯 I’m looking to collaborate on ... innovative projects in machine learning, full-stack development, and real-time systems.
-- 🤔 I’m looking for help with ... optimizing serverless architecture for high-availability applications.
 - 💬 Ask me about ... full-stack development with React.js and Express.js.
 - 📫 How to reach me: ... [jibeshr60@gmail.com](mailto:jibeshr60@gmail.com)
 - 😄 Pronouns: ... He/Him
