@@ -29,6 +29,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,ai,js,nextjs,nodejs,py,pytorch,tensorflow,react,redux,c,cpp,git,linux,opencv,mysql,postgres,mongodb,prisma,rust,sqlite,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,py,pytorch,tensorflow,react,cpp,git,opencv,mysql,sqlite)](https://skillicons.dev)
 
 
